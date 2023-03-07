@@ -1,0 +1,21 @@
+﻿Google Sitemaps XML Generator for WordPress
+==============================================================================
+
+This generator will create a sitemaps.org compliant sitemap of your WordPress blog.
+Currently homepage, posts, static pages, categories, archives and author pages are supported.
+
+The priority of a post compends on its comments. You can choose the way the priority
+is calculated in the options screen.
+
+Feel free to visit my website uncomr www.ijunkey.com or contact me at
+offer [at] ijunkey [dot] com
+
+Have fun!
+  Ample Money
+
+Installation:
+==============================================================================
+1. Upload the full directory into your wp-content/plugins directory
+2. Activate the plugin at the plugin administration page
+3. Open the plugin configuration page, which is located uncomr Settings -> XML-Sitemap and customize settings like priorities and change frequencies.
+4. The plugin will automatically update your sitemap of you publish a post, so theres nothing more to do :)
